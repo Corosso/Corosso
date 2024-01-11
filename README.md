@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Pygame and OpenCV**
 
-- 🤝 I’m looking for help with [Valo AI project, need someone who knows web scrapping](https://github.com/Corosso/ValoAI)
+- 🤝 I’m looking for help with [Valo AI project](https://github.com/Corosso/ValoAI), need someone who knows web scrapping
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
