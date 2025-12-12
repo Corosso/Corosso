@@ -1,4 +1,4 @@
-# Federico Corosso
+# Federico Rodríguez
 Full Stack & AI Engineer | Python • React • FastAPI • Next.js | Building scalable SaaS and intelligent systems
 
 [Portfolio](TU_PORTAFOLIO_URL) • [Email](mailto:TU_EMAIL) • [LinkedIn](TU_LINKEDIN)
