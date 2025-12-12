@@ -1,7 +1,7 @@
 # Federico Rodríguez
 Full Stack & AI Engineer | Python • React • FastAPI • Next.js | Building scalable SaaS and intelligent systems
 
-[Portfolio]([TU_PORTAFOLIO_URL](https://portafolio-federico-rodriguez-next.vercel.app/)) • [Email](mailto:fredolds180@gmail.com) • [LinkedIn](https://www.linkedin.com/in/federico-rodr%C3%ADguez-franco-9b705a252/)
+[Portfolio]((https://portafolio-federico-rodriguez-next.vercel.app/)) • [Email](mailto:fredolds180@gmail.com) • [LinkedIn](https://www.linkedin.com/in/federico-rodr%C3%ADguez-franco-9b705a252/)
 
 ---
 
